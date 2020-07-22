@@ -12,6 +12,9 @@ namespace fukuv0722
 {
     public partial class Form1 : Form
     {
+        int vx = 0;
+        int vy = 0;
+
         public Form1()
         {
             InitializeComponent();
